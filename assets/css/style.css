@@ -15,3 +15,8 @@ footer {
   position: fixed;
   bottom: 0;
 }
+
+.bienvenidos{
+  font-weight: bold;
+  text-align: center;
+}
